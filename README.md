@@ -64,6 +64,7 @@
 * FFMPEG는 동영상 녹화, 변환, 재생에 사용됩니다. [FFMPEG](https://www.ffmpeg.org)
 * 해당 프로그램은 Capture프로젝트에서 영감을 받아 제작되었습니다. [Capture](https://mathewsachin.github.io/Captura)
 * UI 구성을 위해 WPF Mahapps UI Framework가 사용 되었습니다. [Mahapps](https://mahapps.com)
+* Third party 라이브러리로 SCRTVWF가 사용 되었습니다. [SCRTVWF](https://github.com/rdp/screen-capture-recorder-to-video-windows-free)
 
 # 앞으로의 계획
 현재 개발을 진행 못한지 5년이 지났습니다. 여러 피드백을 확인하고 추가 기능 및 오류 해결을 원하시는 분들이 많지만 지원해 드리지 못 해 미안한 마음입니다.  
